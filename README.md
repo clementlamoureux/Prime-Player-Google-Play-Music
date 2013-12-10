@@ -1,5 +1,19 @@
 # Prime Player for Google Play Music
 
+### Fork By clementlamoureux
+
+Hello ! This is my fork to adapt this great chrome extensions for the new Opera 18. There is no modifications for the moment, but you can download the package directly to add this extensions to your Opera browser.
+
+You can download it here : (http://www.clementlamoureux.fr/operaMusic.nex)
+
+Please red this :
+
+This fork was made only for personnal use, so I change the shortcut to this:
+- Play/Pause => Alt+P
+- Next song => Alt+N
+- That's all !
+
+
 ### Description
 
 This is the repository for the Chrome extension for Google Play Music.
